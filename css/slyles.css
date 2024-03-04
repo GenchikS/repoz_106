@@ -3,6 +3,12 @@ body {
     background-color: #FAFAFA;
             }
 a {text-decoration: none;}
+.container{
+    width: 1136px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 
 .header-logo{
     width: 700;
@@ -11,6 +17,8 @@ a {text-decoration: none;}
     line-height: 20px;
     letter-spacing: 0.03em;
     color: #111111;
+    padding-top: 24px;
+    padding-bottom: 32px;
 }
 .header-menu{
     width: 500;
@@ -37,6 +45,7 @@ a {text-decoration: none;}
     color: #FFFFFF;
     background-color: #fd9222;
     border-radius: 100px;
+    cursor: pointer;
 }
 
 .hero-text{
